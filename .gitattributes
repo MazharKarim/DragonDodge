@@ -1,0 +1,27 @@
+# Auto-normalize line endings
+* text=auto
+
+# Unity C# scripts and shader files: use LF
+*.cs text eol=lf
+*.shader text eol=lf
+*.cginc text eol=lf
+*.hlsl text eol=lf
+*.compute text eol=lf
+*.glsl text eol=lf
+
+# Unity-specific binary files
+*.unity binary
+*.prefab binary
+*.mat binary
+*.asset binary
+*.fbx binary
+*.png binary
+*.jpg binary
+*.ogg binary
+*.mp3 binary
+*.wav binary
+*.ttf binary
+*.dll binary
+
+# Unity meta files – still text, but enforce LF
+*.meta text eol=lf
