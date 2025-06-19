@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 4520676ba89d92d4b984d78e0a1248ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7219461462423761067
+    second: HatchByte Studios logo transparent_0
+  - first:
+      213: -8712562194910527406
+    second: HatchByte Studios logo transparent_1
+  - first:
+      213: 3473353572562258755
+    second: HatchByte Studios logo transparent_2
+  - first:
+      213: -566857887459950427
+    second: HatchByte Studios logo transparent_3
+  - first:
+      213: 1038594138093159270
+    second: HatchByte Studios logo transparent_4
+  - first:
+      213: 2510327656697854100
+    second: HatchByte Studios logo transparent_5
+  - first:
+      213: -5094215790213957515
+    second: HatchByte Studios logo transparent_6
+  - first:
+      213: 5556937156182717673
+    second: HatchByte Studios logo transparent_7
+  - first:
+      213: 1676231266236002892
+    second: HatchByte Studios logo transparent_8
+  - first:
+      213: 6424717377135026223
+    second: HatchByte Studios logo transparent_9
+  - first:
+      213: 5201744259949304083
+    second: HatchByte Studios logo transparent_10
+  - first:
+      213: -6183633905302505406
+    second: HatchByte Studios logo transparent_11
+  - first:
+      213: -5477920492213773656
+    second: HatchByte Studios logo transparent_12
+  - first:
+      213: 5106283328447696966
+    second: HatchByte Studios logo transparent_13
+  - first:
+      213: 3767844013430589343
+    second: HatchByte Studios logo transparent_14
+  - first:
+      213: -2856073939709198687
+    second: HatchByte Studios logo transparent_15
+  - first:
+      213: 3196808757247960380
+    second: HatchByte Studios logo transparent_16
+  - first:
+      213: -4186539771125296641
+    second: HatchByte Studios logo transparent_17
+  - first:
+      213: 2103851718751003266
+    second: HatchByte Studios logo transparent_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_0
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1556
+        width: 893
+        height: 1238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f0c9edc025fcb90800000000000000
+      internalID: -7219461462423761067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_1
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2346
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2504cd848d2c61780800000000000000
+      internalID: -8712562194910527406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2260
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b48efeba4d33030800000000000000
+      internalID: 3473353572562258755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1231
+        width: 150
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a042d331cd1228f0800000000000000
+      internalID: -566857887459950427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1231
+        width: 124
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66388daadd3d96e00800000000000000
+      internalID: 1038594138093159270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1230
+        width: 102
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498705714b976d220800000000000000
+      internalID: 2510327656697854100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_6
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1230
+        width: 121
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5787c17aab5bd49b0800000000000000
+      internalID: -5094215790213957515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_7
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1231
+        width: 126
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b071d6e43e1d40800000000000000
+      internalID: 5556937156182717673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_8
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1233
+        width: 136
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c427661a47b234710800000000000000
+      internalID: 1676231266236002892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1186
+        width: 133
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20a9663a6e292950800000000000000
+      internalID: 6424717377135026223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_10
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1230
+        width: 102
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31994ba28de403840800000000000000
+      internalID: 5201744259949304083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1231
+        width: 131
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248f165b9b15f2aa0800000000000000
+      internalID: -6183633905302505406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_12
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1090
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aad3c9e5548af3b0800000000000000
+      internalID: -5477920492213773656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1091
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640df9a02a92dd640800000000000000
+      internalID: 5106283328447696966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_14
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1090
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97cc95da221a4430800000000000000
+      internalID: 3767844013430589343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_15
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1091
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aef16b42ef2d58d0800000000000000
+      internalID: -2856073939709198687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_16
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1090
+        width: 26
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c356f9690a85d5c20800000000000000
+      internalID: 3196808757247960380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_17
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1090
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff11808624c66e5c0800000000000000
+      internalID: -4186539771125296641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HatchByte Studios logo transparent_18
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1090
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282af34ddf1623d10800000000000000
+      internalID: 2103851718751003266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HatchByte Studios logo transparent_0: -7219461462423761067
+      HatchByte Studios logo transparent_1: -8712562194910527406
+      HatchByte Studios logo transparent_10: 5201744259949304083
+      HatchByte Studios logo transparent_11: -6183633905302505406
+      HatchByte Studios logo transparent_12: -5477920492213773656
+      HatchByte Studios logo transparent_13: 5106283328447696966
+      HatchByte Studios logo transparent_14: 3767844013430589343
+      HatchByte Studios logo transparent_15: -2856073939709198687
+      HatchByte Studios logo transparent_16: 3196808757247960380
+      HatchByte Studios logo transparent_17: -4186539771125296641
+      HatchByte Studios logo transparent_18: 2103851718751003266
+      HatchByte Studios logo transparent_2: 3473353572562258755
+      HatchByte Studios logo transparent_3: -566857887459950427
+      HatchByte Studios logo transparent_4: 1038594138093159270
+      HatchByte Studios logo transparent_5: 2510327656697854100
+      HatchByte Studios logo transparent_6: -5094215790213957515
+      HatchByte Studios logo transparent_7: 5556937156182717673
+      HatchByte Studios logo transparent_8: 1676231266236002892
+      HatchByte Studios logo transparent_9: 6424717377135026223
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
